@@ -1,0 +1,28 @@
+{
+  "_id": "12345",
+  "username": "user123",
+  "threat": 2,
+  "insult": 4,
+  "obscene": 1,
+  "neutral": 5,
+  "total_messages": 12,
+  "rating": 4.5,
+  "messages": [
+    {
+      "class": "neutral",
+      "date": "2023-05-19"
+    },
+    {
+      "class": "insult",
+      "date": "2023-05-20"
+    },
+    {
+      "class": "threat",
+      "date": "2023-05-21"
+    },
+    {
+      "class": "insult",
+      "date": "2023-05-21"
+    }
+  ]
+}
